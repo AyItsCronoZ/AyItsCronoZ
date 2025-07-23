@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Dan (AyItsCronoZ)!
 
-<!--
-**AyItsCronoZ/AyItsCronoZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student & Aspiring Full Stack Developer**  
+I'm currently learning to become a full stack developer, with a passion for building cool things with code.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** JavaScript (currently leveling up!)
+- **Learning:** Full Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📚 About Me
+- 🔭 Currently focused on mastering both front-end and back-end technologies
+- 🌱 Always exploring new frameworks and tools
+- 🚀 Excited to contribute to open-source and collaborate with the community
+
+## 📌 Featured Projects
+<!-- Add your favorite or most proud projects here!
+- [Project Name](link) - Short description
 -->
+
+## 💬 Let's Connect!
+<!-- Add your social links here!
+- [LinkedIn](#)
+- [Twitter](#)
+- [Personal Website](#)
+-->
+
+---
+
+Thanks for stopping by! 😊
